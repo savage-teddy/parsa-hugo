@@ -3,26 +3,21 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Upbeat Potatoe"
-
+title = "Upbeat Potato"
 [[menu.main]]
 URL = "articles"
 name = "Articles"
 weight = 2
-
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 3
-
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
-
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Upbeat Potato"
@@ -39,66 +34,47 @@ logo = "images/logo.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = false
-
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
 user_id = "4044026246"
-
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
-
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
-
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
-
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-
 [[params.plugins.js]]
 link = "plugins/headroom/headroom.js"
-
 [[params.plugins.js]]
 link = "plugins/instafeed/instafeed.min.js"
-
 [[params.plugins.js]]
 link = "plugins/masonry/masonry.js"
-
 [[params.plugins.js]]
 link = "plugins/reading-time/readingTime.min.js"
-
 [[params.plugins.js]]
 link = "plugins/smooth-scroll/smooth-scroll.js"
-
 [[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
-
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
-
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
-
 [[params.social]]
 URL = "#"
 icon = "ti-linkedin"
-
 [[params.social]]
 URL = "#"
 icon = "ti-github"
