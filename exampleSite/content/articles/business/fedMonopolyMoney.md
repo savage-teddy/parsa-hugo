@@ -3,7 +3,7 @@ title: "Federal Reserve to Loan Monopoly Money"
 date: 2020-04-24T13:58:06-07:00
 draft: false
 type: "featured"
-image: "images/buisness/monopoly.jpg"
+image: "images/business/monopoly.jpg"
 categories:
   - "Buisness"
 tags:
@@ -19,5 +19,4 @@ From individual stimulus checks to small buisness loans the Federal Reserve is l
 The Federal Reserve will now loan you the monopoly money you need to purchase those high end places and win the game, at an all time low interest rate! Note however, that all interest payments are to be made in U.S. dollars.
 
 
-
-![](../../../images/buisness/monopolyMeme.jpg)
+![](../../../images/business/monopolyMeme.jpg)
