@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.org"
+baseURL = "https://eloquent-hamilton-9a907b.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
