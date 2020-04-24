@@ -26,3 +26,5 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+pages:
+- exampleSite/content/articles/celebrity/daymond-john-seeks-10-million-for-03-with-n95-masks.md
