@@ -1,7 +1,7 @@
 ---
 title: "Tesla and Nasa to use Cybertruck as next Mars rover"
 date: 2020-04-24T13:33:46-07:00
-draft: true
+draft: false
 type: "featured"
 image: "images/auto/TeslaMars.jpg"
 categories: 
