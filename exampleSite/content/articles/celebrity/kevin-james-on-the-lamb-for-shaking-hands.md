@@ -2,11 +2,10 @@
 categories = ["Celebrity"]
 date = 2020-05-12T17:00:00Z
 description = "Kevin James looking deep into your eyes!"
-draft = true
 image = "/images/KevinJames.jpg"
 tags = ["Kevin James", "King of Queens", "Celibrity News", "Corona Virus", "COVID19", "hand shake"]
 title = "Kevin James on the Lamb for Shaking Hands"
-type = "post"
+type = "featured"
 
 +++
 Actor Kevin James went on the lamb today after he was caught breaking social distancing rules.  Surprisingly, even for his physique, Mr. James was able to elude capture for 6 whole hours.  Live video of the chase and incident was captured and posted on the internet for all the world to see.
