@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Business"]
 date = 2020-05-10T17:00:00Z
 description = "Some random business that is open."
 draft = true
