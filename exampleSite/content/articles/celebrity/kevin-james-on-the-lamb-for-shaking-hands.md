@@ -9,10 +9,9 @@ title = "Kevin James on the Lamb for Shaking Hands"
 type = "post"
 
 +++
-Actor Kevin James went on the lamb today after he was caught breaking social distancing rules.  Surprisingly, even for his physique, Mr. James was able to elude capture for 6 whole hours before being captured by the search team.  Live video of the chase and incident was captured and posted on the internet for all the world to see.
+Actor Kevin James went on the lamb today after he was caught breaking social distancing rules.  Surprisingly, even for his physique, Mr. James was able to elude capture for 6 whole hours.  Live video of the chase and incident was captured and posted on the internet for all the world to see.
 
 [![Kevin running for a Donut](http://img.youtube.com/vi/wfGAktuU93s/0.jpg)](http://www.youtube.com/watch?v=wfGAktuU93s "Kevin on the Run")
-
 
 We didn't attempt to contact Mr. James for comment since he is likely covered in Corona Virus and we don't want to get sick.  A best guess is that his publicist is happy that he got publicity and only talking to him via phone or email.
 
