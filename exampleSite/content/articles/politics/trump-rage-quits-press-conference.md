@@ -5,7 +5,7 @@ description = "By The White House - The White House - Youtube (https://www.youtu
 image = "/images/Trump_syria_address.png"
 tags = ["Trump", "Politics", "COVID19", "Rage Quit"]
 title = "Trump Rage Quits Press Conference"
-type = "post"
+type = "featured"
 
 +++
 Another press conference became a battleground today in the long running contest between the president and traditional media outlets.  While calling on reporters one reporter challenged the president on his usage of comparative language.  The reporter instead wanted to focus on the fact that people are dying.
