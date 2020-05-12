@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T22:30:10+00:00
 description: This is meta description
-image: images/author.jpg
+image: "/images/Anthropomorphic-Potato.jpg"
 
 ---
 We are family people who are tired of the same boring old news with all of its biases.  So we decided to start out own biased family friendly news here.
