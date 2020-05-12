@@ -2,7 +2,6 @@
 categories = ["Business"]
 date = 2020-05-10T17:00:00Z
 description = "Some random business that is open."
-draft = true
 image = "/images/OpenSign.jpg"
 tags = ["Politics", "health", "safety", "covid19", "usa", "america", "economy"]
 title = "Businesses Open after Near Economic Suicide"
