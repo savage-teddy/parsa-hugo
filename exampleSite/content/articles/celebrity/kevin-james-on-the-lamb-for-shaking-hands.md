@@ -1,7 +1,7 @@
 +++
 categories = ["Celebrity"]
 date = 2020-05-12T17:00:00Z
-description = "Kevin James Circa 2011"
+description = "Kevin James looking deep into your eyes!"
 draft = true
 image = "/images/KevinJames.jpg"
 tags = ["Kevin James", "King of Queens", "Celibrity News", "Corona Virus", "COVID19", "hand shake"]
