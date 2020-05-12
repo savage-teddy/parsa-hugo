@@ -12,7 +12,7 @@ Businesses have begun to reopen across the US as the initial wave of fear over C
 
 The easing of restrictions and the opening of businesses will be seen by a positive to many millions of Americans long tired of eating home cooked meals.  A 'scientific study' by a well known researcher has shown interesting search trends as American's have been trapped at home for several weeks.
 
-https://imgs.xkcd.com/comics/2020_google_trends.png
+![XKCD Peer Observed Research on Google Searches](https://imgs.xkcd.com/comics/2020_google_trends.png "Google Search Trends 2020")
 
 Anyone who has Pintrest failed at baking knows that the solution to a baking fail is a trip to your favorite eatery.  As we fail at making artisan bread, our appetites for restaurant food only increases.
 
