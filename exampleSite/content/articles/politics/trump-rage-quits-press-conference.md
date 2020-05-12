@@ -16,4 +16,4 @@ At this point the president tried disengagement instead of a head on battle with
 
 Sensing that the crowd was going to shift the focus of the session, the president yielded the battlefield.  It's tough to say whether he gave up because it wasn't going his way, or if he was being a better person by not arguing with someone who was out to get him.  What we do know is that those who hate him will take it their way, and those who love him will keep supporting him.  Watch the 1:31 video and see which fits your narrative.
 
-\[!\[Trump's Back\](![](http://img.youtube.com/vi/pU9bm13cWJw/0.jpg))\]([http://www.youtube.com/watch?v=pU9bm13cWJw](http://www.youtube.com/watch?v=pU9bm13cWJw "http://www.youtube.com/watch?v=pU9bm13cWJw") "Trump's Boots are Made for Walkin'")
+[![Trump's Back](http://img.youtube.com/vi/pU9bm13cWJw/0.jpg)](http://www.youtube.com/watch?v=pU9bm13cWJw "Trump's Boots are Made for Walkin'")
