@@ -17,4 +17,4 @@ Then the miraculous happened and stocks started to take off.  They never really 
 
 Apparently these investors are running out of hope and starting to read the articles about the impacts to businesses and working class people.  All that can be predicted from here is that we are in for more of a wild ride.  So, sit back, buckle up, and try not to cry as the ride moves along.  It scares the kids.
 
-(/images/20200513_BuyingTheDips.jpg)
+![Buy The Dips](/images/20200513_BuyingTheDips.jpg)
