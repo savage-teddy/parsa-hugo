@@ -2,7 +2,6 @@
 categories = ["Business"]
 date = 2020-05-13T22:00:00Z
 description = "20200513 DJIA Closing "
-draft = true
 image = "/images/20200513DJIA.jpg"
 tags = ["Dow Jones Industrial Average", "DJIA", "Stock Market", "Business", "Corona Virus", "Markets"]
 title = "Dow Drops as Investors Wakeup"
