@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/articles/business/dow-drops-as-investors-wakeup.md
 - exampleSite/content/articles/celebrity/daymond-john-seeks-10-million-for-03-with-n95-masks.md
 - exampleSite/content/articles/celebrity/kevin-james-on-the-lamb-for-shaking-hands.md
 - exampleSite/content/articles/celebrity/social-media-fitness-coach-admits-weight-loss-secret.md
