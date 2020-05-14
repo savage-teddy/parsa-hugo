@@ -2,7 +2,6 @@
 categories = ["Home"]
 date = 2020-05-29T07:00:00Z
 description = "Kids Happy at Home"
-draft = true
 image = "/images/examplesite/static/images/homeschooledchildrencooking.jpg"
 tags = ["Homeschooling", "social distancing", "lockdown", "schools out for summer", "crazy at home"]
 title = "Parents get a Dose of Their Own Children"
