@@ -2,7 +2,6 @@
 categories = ["Travel & Leisure"]
 date = 2020-05-17T13:00:00Z
 description = "Makapu'u Point"
-draft = true
 image = "/images/examplesite/static/images/555px-makapu-u_point_hawaii.jpg"
 tags = ["Beach", "Hawaii", "Travel", "Vacation", "COVID19", "Quarantine"]
 title = "Hawaii, Come for the Beach, Quarantine in Your Hotel"
