@@ -15,4 +15,4 @@ The store's brand of over priced furniture and decorations was made to look as i
 
 The retailer has claimed the COVID was the final nail in the coffin, but to this writer it feels more like a mercy killing at this point.  Googling Pier 1 yields lots of photos of empty parking lots.
 
-!\[\](Pier1ChangeMyMind.jpg)
+![](/images/Pier1ChangeMyMind.jpg)
