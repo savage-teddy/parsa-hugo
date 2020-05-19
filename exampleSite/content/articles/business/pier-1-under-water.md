@@ -2,7 +2,6 @@
 categories = ["Business"]
 date = 2020-05-19T22:00:00Z
 description = "Another empty Pier 1 parking lot"
-draft = true
 image = "/images/pier1.jpg"
 tags = ["Business", "Economy", "Brick and Mortar", "Pier 1", "COVID19"]
 title = "Pier 1 Under Water"
