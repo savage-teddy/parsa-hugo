@@ -5,7 +5,7 @@ description = "10 Year Old Debt Clock Image"
 draft = true
 image = "/images/nycdebtclock.jpg"
 tags = ["Corona Virus", "COVID19", "Kung Flu", "Wubonic Plague", "Federal Reserve", "Treasury", "National Debt", "Help We're Drowning"]
-title = "Businesses Say No to Gov Help"
+title = "Businesses Not Taking Government Loans"
 type = "featured"
 
 +++
@@ -15,4 +15,4 @@ This is at a time when Senators and Congresspeople are struggling to look like t
 
 What we can expect is the congress will continue to posture and bills will be passed in hopes of looking productive.  This won't help the many millions who lost a job because of Corona Virus.  If there is a bright side (even a small one), the nation may not actually go further into debt just to make ourselves feel better!...don't look [here](https://www.usdebtclock.org/)...it'll make you feel bad again.  I told you not to look.
 
-![](/images/congressdebtmeme.jpg)
+![America and Congress yelling at eachother.](/images/congressdebtmeme.jpg "Show me the Money")
