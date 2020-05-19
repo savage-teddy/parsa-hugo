@@ -2,7 +2,6 @@
 categories = ["Business"]
 date = 2020-05-19T16:00:00Z
 description = "10 Year Old Debt Clock Image"
-draft = true
 image = "/images/nycdebtclock.jpg"
 tags = ["Corona Virus", "COVID19", "Kung Flu", "Wubonic Plague", "Federal Reserve", "Treasury", "National Debt", "Help We're Drowning"]
 title = "Businesses Not Taking Government Loans"
