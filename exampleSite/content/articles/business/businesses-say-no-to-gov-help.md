@@ -9,7 +9,7 @@ title = "Businesses Not Taking Government Loans"
 type = "featured"
 
 +++
-![](/images/nycdebtclock.jpg)Treasury secretary Mnuchin and Federal Reserve Chair Powell are set to be grilled today over the possibility of authorizing more funding for COVID19 relief.  Team Trump has not sounded interested in allocating more money, while the private organization that makes money off of loans to the US government was more open to the idea.
+Treasury secretary Mnuchin and Federal Reserve Chair Powell are set to be grilled today over the possibility of authorizing more funding for COVID19 relief.  Team Trump has not sounded interested in allocating more money, while the private organization that makes money off of loans to the US government was more open to the idea.
 
 This is at a time when the Senate and House are struggling to look like they are doing stuff to help the American people.  However, a look at the very confusing docs from the [Senate](https://www.toomey.senate.gov/files/documents/COC%201st%20Report_05.18.2020.pdf) indicates that there is some trouble in spending $500 billion of the money.  In the haste to push the relief there were some minor problems like...the minimum size of the loan was OVER $500k, and the loan had to be because of COVID19 circumstances, etc.  Don't worry, the government will fix this by lowering the minimum loan to $500k, and making it available for more than just COVID19 relief.
 
