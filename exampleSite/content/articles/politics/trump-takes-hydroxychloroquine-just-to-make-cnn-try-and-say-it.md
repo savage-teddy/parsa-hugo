@@ -2,7 +2,6 @@
 categories = ["Politics"]
 date = 2020-05-19T03:00:00Z
 description = "Trump wants Corona to Come at Him"
-draft = true
 image = "/images/trump_armsopen.jpg"
 tags = ["Come at Me Bro", "COVID19", "Hydroxychloroquine", "Corona Virus", "Corona", "Kung Flu", "Wubonic Plague", "China Virus"]
 title = "Trump Takes Hydroxychloroquine Just to Make CNN Try and Say It"
