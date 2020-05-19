@@ -13,5 +13,6 @@ On Monday it became public knowledge that the president is taking hydroxychloroq
 
 What has confounded the situation is that studies by the [French](https://www.ncbi.nlm.nih.gov/pubmed/32205204) and [Chinese](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v3) have shown positive results in patients who took the medicine.  Those trials were smaller in the number of patients observed and the patients were likely less diverse.
 
-What is most shocking is that this shows Trump is willing to listen to foreigners.  He may build a wall to keep them out, but he'll at least let them publish medical data on the internet.
+What is most shocking is that this shows Trump is willing to listen to foreigners.  He may build a wall to keep them out, but he'll at least accept their medical results when published on the internet.  Remember 1 out of 5 doctors doesn't agree with 4 out of 5 doctors!
 
+[](/images/KeanuHydroxy.jpg)
